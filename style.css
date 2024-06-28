@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #1f242d;
+    color: #fff;
+}
+.home-img{
+    border-radius: 50px;
+    padding-left: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:50px;
+}
+.home-text h1{
+    font-size: 5.6rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-text h3{
+    font-size: 5.6rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-text p{
+    font-size: 1.rem;
+}
+.home-text p:hover{
+    color: #0ef;
+}
+span:hover{
+    color: #0ef;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn:hover{
+    color: aquamarine;
+}
